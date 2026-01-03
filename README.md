@@ -81,5 +81,3 @@ npx zeabur variable list -i=false
 - [Platform 管理後台](https://www.ktwsmart.com/admin)
 
 ---
-
-> 最後更新：2025-12-28
