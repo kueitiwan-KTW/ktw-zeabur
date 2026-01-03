@@ -1,4 +1,4 @@
-# KTW Zeabur 管理工具 - 版本歷史
+# KTW Zeabur 管理工具 - 版本歷史（Changelog，更新記錄）
 
 ## [Unreleased]
 

@@ -1,6 +1,6 @@
-# KTW Zeabur 管理工具
+# KTW Zeabur 管理工具（Zeabur CLI Management Tool，雲端服務管理工具）
 
-管理 Zeabur 雲端服務的工具集。
+管理 Zeabur（雲端部署平台）服務的工具集。
 
 ## 快速開始
 
